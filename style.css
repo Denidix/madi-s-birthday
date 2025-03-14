@@ -90,8 +90,9 @@ button, a {
   }
   
   button{ 
-    width: 200px
-    border-radius: 20px
+    width: 100px
+    border-radius: 20px;
+    font-size: 1em
     }
   
   main{ 
