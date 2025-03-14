@@ -98,6 +98,37 @@ button, a {
     top: 50px
     }
 }
+@media screen and (min-width: 1024px){
+   
+ h1{
+ font-size: 4em;
+}
+
+  
+img{
+  width: 100px;
+}
+
+p{
+  font-size: 2em;
+}
+
+
+button{
+  background-color: black;
+  color: White;
+  font-size: 1.5em;
+  padding: 15px 30px;
+  width: 300px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  position: relative;
+  top: 20px;
+  z-index: -1;
+  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+}
 img {
   width: 80px;
   animation: bounce 2s infinite ease-in-out;
