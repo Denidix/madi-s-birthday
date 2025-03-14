@@ -29,6 +29,7 @@ p{
 
 button{
   background-color: black;
+  user-select: none;
   color: White;
   font-size: 1.5em;
   padding: 15px 30px;
