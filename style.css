@@ -75,18 +75,28 @@ button, a {
 @media screen and (max-width: 768px){
    
   h1{
-    font-size: 2.5em;
+    font-size: 1.5em;
     margin: 0px;
     animation: slideInLeft 2s ease-in-out forwards;
     animation: rainbow 3s infinite;
     }
 
   p{
-    font-size: 1em
+    font-size: 1em;
   }
 
   img{
-    width: 50px}
+    width: 40px;
+  }
+  
+  button{ 
+    width: 100px
+    }
+  
+  main{ 
+    position: relative;
+    top: 50px
+    }
 }
 img {
   width: 80px;
