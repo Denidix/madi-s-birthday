@@ -173,6 +173,10 @@
     animation: twinkle infinite alternate;
   }
 
+button, a {
+    touch-action: manipulation;
+}
+
   /* Placement des étoiles manuellement */
   .star:nth-child(1) { top: 10%; left: 20%; animation-duration: 2s; }
   .star:nth-child(2) { top: 30%; left: 50%; animation-duration: 3s; }
