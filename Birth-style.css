@@ -105,27 +105,27 @@
   @media screen and (max-width: 768px) {
 
   .title {
-  width: 750px;
+  width: 100%;
   }
 
   h1{
-  font-size: 2em;
+  font-size: 4em;
   } 
   .picture{
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
   } 
 
   P{
-  font-size: 1.3em;
+  font-size: 2em;
   }
 
   .gift-icone{
-  width: 50px;
+  width: 100px;
   }
 
   .emoji-icone{
-  width: 30px;
+  width: 50px;
   }
 
 
