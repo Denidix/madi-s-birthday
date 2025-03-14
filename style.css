@@ -37,7 +37,7 @@ button{
   border-radius: 25px;
   cursor: pointer;
   position: relative;
-  top: 15px;
+  top: 20px;
   z-index: -1;
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 }
